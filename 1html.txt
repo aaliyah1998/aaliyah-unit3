@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>Aaliyah's Brazilian Weave </title>
+     <style> 
+         body{
+              font-family:"impact";
+              font-weight: Bolder;
+              font-size:.5cm;
+              text-decoration: no underline;
+              text-left;
+          }
+      </style>
+   </head>
+   <body>
+       <header>
+          <h1> Welcome!!!</h1>
+       </header>
+       <article> 
+           <p>
+             "i like brazilian hair, because its the best brand to get that has has an natural look which my black sista's are looking for."
+             <ol>
+                <li>curly hair</li>
+                <li> wavy hair</li>
+                <li>straight hair</li>
+           </ol>
+        </p>
+     </article>
+  </body>
+< /html>
